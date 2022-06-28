@@ -1,7 +1,14 @@
 # Entrega1-Ponce
 #App PizzeriaManuel
-Una App de pizzas hecha con Python, usando django
-## Documentation
+Una aplicacion de pizzeria hecha con Python, usando django
+## Documentacion
 Creacion de app django
-
-Utilizo una plantilla de bootstrap modificada y adaptada a la necesidad, en la cual renderizo los datos desde el backend, usando la herencia de padre a hijo para altenar las diferentes vistas que cree desde ahi.
+La aplicacion esta creada utilizando una plantilla de bootstrap para renderizar los datos a las distintas vistas que tengo en mi aplicacion.
+## models.pý
+Aca encontramos los datos para el modelaje.
+## views.py
+Las vistas creadas para la navegacion de la web.
+## forms.py 
+Formulario que hace envio de los datos ingresados al backend.
+ ## urls.py
+Configuracion de rutas.
