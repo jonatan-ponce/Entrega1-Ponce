@@ -12,3 +12,7 @@ Las vistas creadas para la navegacion de la web.
 Formulario que hace envio de los datos ingresados al backend.
  ## urls.py
 Configuracion de rutas.
+
+## Lo que no pude hacer
+
+Quiero poder cambiar los colores de fuentes tanto de los botones que nos llevan a distantas urls como las fuentes de la informacion que vemos en la pantalla de inicio. Pero aun no pude lograrlos.
